@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# Systemd service files
+systemd/
+
+# Configuration files
+conf/
+
+# Executable scripts
+bin/
+
+# Environment variables
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
